@@ -12,4 +12,4 @@ Python Application that downloads any song (into an .mp3 file) given the song ti
 1. Type in the name of the song you want
 2. You have the option to type in the name of the artist
 3. Click the submit button.
-4. The mp3 file will be in the main folder. Open up your finder to retrieve it.
+4. The mp3 file will be in the ListenQuick folder. Open up your finder to retrieve it.
