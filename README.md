@@ -1,7 +1,7 @@
 # ListenQuick
 Python Application that downloads any song (into an .mp3 file) given the song title. It includes a built-in, easy-to-use GUI that only requires you to give a valid song name.
 ## How To Start App
-1. Download the repository onto your computer.
+1. Download the zip file onto your computer and then double click it. Open up your terminal and cd into the ListenQuick directory.
 2. If it is your __first time__ using the application then enter the following commands. Note: This may take some time to download if this is your first time using the app. (5-10 minutes)
   - `chmod +x first_time.sh`
   - `./first_time.sh`
