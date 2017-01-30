@@ -6,7 +6,7 @@ Python Application that downloads any song (into an .mp3 file) given the song ti
   - `chmod +x first_time.sh`
   - `./first_time.sh`
 3. If it is __not__ your __first time__ then simply run this command in the terminal
-  - `python ListenQuick.py`
+  - `./open_app.sh`
   
 ## Using the app
 1. Type in the name of the song you want
